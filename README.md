@@ -3,6 +3,7 @@ Command line tool to help with recursively refactoring content in files based on
 
 # installation
 `go get github.com/jrkt/refactor`
+
 `go install github.com/jrkt/refactor`
 
 # usage
